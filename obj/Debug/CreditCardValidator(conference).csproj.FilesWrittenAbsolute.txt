@@ -1,0 +1,8 @@
+/media/jose/26C82F85C82F51FB/Users/Jose/Documents/Visual Studio 2013/Projects/CreditCardValidator(conference)/CreditCardValidator(conference)/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/jose/26C82F85C82F51FB/Users/Jose/Documents/Visual Studio 2013/Projects/CreditCardValidator(conference)/CreditCardValidator(conference)/obj/Debug/CreditCardValidator_conference_.CreditCardValidator.resources
+/media/jose/26C82F85C82F51FB/Users/Jose/Documents/Visual Studio 2013/Projects/CreditCardValidator(conference)/CreditCardValidator(conference)/obj/Debug/CreditCardValidator_conference_.Properties.Resources.resources
+/media/jose/26C82F85C82F51FB/Users/Jose/Documents/Visual Studio 2013/Projects/CreditCardValidator(conference)/CreditCardValidator(conference)/bin/Debug/CreditCardValidator(conference).exe.config
+/media/jose/26C82F85C82F51FB/Users/Jose/Documents/Visual Studio 2013/Projects/CreditCardValidator(conference)/CreditCardValidator(conference)/bin/Debug/CreditCardValidator(conference).exe.mdb
+/media/jose/26C82F85C82F51FB/Users/Jose/Documents/Visual Studio 2013/Projects/CreditCardValidator(conference)/CreditCardValidator(conference)/bin/Debug/CreditCardValidator(conference).exe
+/media/jose/26C82F85C82F51FB/Users/Jose/Documents/Visual Studio 2013/Projects/CreditCardValidator(conference)/CreditCardValidator(conference)/obj/Debug/CreditCardValidator(conference).exe
+/media/jose/26C82F85C82F51FB/Users/Jose/Documents/Visual Studio 2013/Projects/CreditCardValidator(conference)/CreditCardValidator(conference)/obj/Debug/CreditCardValidator(conference).exe.mdb

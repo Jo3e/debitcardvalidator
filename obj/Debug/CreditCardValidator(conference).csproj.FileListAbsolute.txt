@@ -1,0 +1,9 @@
+C:\Users\Jose\documents\visual studio 2013\Projects\CreditCardValidator(conference)\CreditCardValidator(conference)\obj\Debug\CreditCardValidator(conference).csprojResolveAssemblyReference.cache
+C:\Users\Jose\documents\visual studio 2013\Projects\CreditCardValidator(conference)\CreditCardValidator(conference)\obj\Debug\CreditCardValidator_conference_.CreditCardValidator.resources
+C:\Users\Jose\documents\visual studio 2013\Projects\CreditCardValidator(conference)\CreditCardValidator(conference)\obj\Debug\CreditCardValidator_conference_.Properties.Resources.resources
+C:\Users\Jose\documents\visual studio 2013\Projects\CreditCardValidator(conference)\CreditCardValidator(conference)\obj\Debug\CreditCardValidator(conference).csproj.GenerateResource.Cache
+C:\Users\Jose\documents\visual studio 2013\Projects\CreditCardValidator(conference)\CreditCardValidator(conference)\bin\Debug\CreditCardValidator(conference).exe.config
+C:\Users\Jose\documents\visual studio 2013\Projects\CreditCardValidator(conference)\CreditCardValidator(conference)\bin\Debug\CreditCardValidator(conference).exe
+C:\Users\Jose\documents\visual studio 2013\Projects\CreditCardValidator(conference)\CreditCardValidator(conference)\bin\Debug\CreditCardValidator(conference).pdb
+C:\Users\Jose\documents\visual studio 2013\Projects\CreditCardValidator(conference)\CreditCardValidator(conference)\obj\Debug\CreditCardValidator(conference).exe
+C:\Users\Jose\documents\visual studio 2013\Projects\CreditCardValidator(conference)\CreditCardValidator(conference)\obj\Debug\CreditCardValidator(conference).pdb
