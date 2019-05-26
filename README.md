@@ -1,6 +1,9 @@
 # debitcardvalidator
 A tool to check for debit card validator using Luhn's check sum algorithm
 
+# Requirements
+* dot net 4.5+
+
 # Abilities
 * Identifies Card Issuers ID
 * Identifies Card Type
